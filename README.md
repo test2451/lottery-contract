@@ -4,7 +4,7 @@
 
 ```shell script
 npm i @openzeppelin/contracts
-npm i @pancakeswap/pancake-swap-lib
+npm i @pieswap/pie-swap-lib
 npm install
 ```
 
